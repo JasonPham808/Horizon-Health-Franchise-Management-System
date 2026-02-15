@@ -1,4 +1,4 @@
-## Horizon-Health-Franchise-Management-System
+# Horizon-Health-Franchise-Management-System
 # Project Overview
 This project presents the analysis and design of a mobile application to enhance Horizon Health’s franchise management. The solution leverages UML modeling, business process modeling, and AI-enhanced workflows to streamline operations across franchisees, administrators, and external systems.
 The application focuses on:
@@ -21,7 +21,7 @@ The application focuses on:
 - Transparency & Accountability: Clear role delineation across administrators, franchisees, and managers.
 - Enhanced Client Experience: Faster service delivery and accurate billing improve client satisfaction.
 # Contents 📂 
-1. Use Case Diagram Analysis
+## 1. Use Case Diagram Analysis
 <img width="737" height="826" alt="image" src="https://github.com/user-attachments/assets/887e9845-ed00-4be1-9cd5-d05707776d56" />
 
 Actors in the System
@@ -47,7 +47,7 @@ Key Process Flows
 - Training Updates
 - Manuals distributed; franchisee queries answered by the Training Department.
 
-3. Sequence & Domain Class Diagram
+## 2. Sequence & Domain Class Diagram
 <img width="782" height="714" alt="image" src="https://github.com/user-attachments/assets/65715739-5c4e-4cc6-866b-ac5e64fbdc04" />
 
 Sequence Diagram Summary – Key Flow
@@ -87,7 +87,7 @@ Relationships:
 • 	External systems integrate for accounting and reporting.
 Outcome:
 Provides a clear, scalable model of how actors and processes interact. Supports automation, financial tracking, and ensures the app design is structured, traceable, and ready for implementation.
-5. Business Process Models
+## 3. Business Process Models
 <img width="685" height="838" alt="image" src="https://github.com/user-attachments/assets/f9c478e0-0641-49d8-a525-bc5f48bc95f5" />
 
 The system workflows are captured in three BPMs to ensure clear roles, automation, and accountability:
@@ -108,7 +108,7 @@ Supporting Processes:
 - Marketing Manager – Uses invoice data for sales and revenue reporting.
 Outcome:
 These BPMs streamline lead handling, client servicing, and invoicing, ensuring efficiency, transparency, and financial accuracy across Horizon Health’s franchise network.
-6. BACCM Analysis
+## 4. BACCM Analysis
 <img width="730" height="487" alt="image" src="https://github.com/user-attachments/assets/a473ab81-64b5-491d-a222-6f20a441d396" />
 
 Figure 5: BACCM-based mind map for the problem space exploration
