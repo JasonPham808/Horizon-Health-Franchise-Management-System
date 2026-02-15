@@ -1,6 +1,6 @@
 ## Horizon-Health-Franchise-Management-System
 # Project Overview
-This project presents the analysis and design of a digital mobile application aimed at enhancing Horizon Health’s franchise management. The solution leverages UML modeling, business process modeling, and AI-enhanced workflows to streamline operations across franchisees, administrators, and external systems.
+This project presents the analysis and design of a mobile application to enhance Horizon Health’s franchise management. The solution leverages UML modeling, business process modeling, and AI-enhanced workflows to streamline operations across franchisees, administrators, and external systems.
 The application focuses on:
 - Efficient lead handling and allocation
 - Seamless client servicing and conversion
@@ -34,13 +34,14 @@ Actors in the System
 • 	Marketing Manager – Monitors performance and generates sales reports.
 
 <img width="793" height="560" alt="image" src="https://github.com/user-attachments/assets/7366b1db-b495-499a-9e84-961578fb3202" />
+
 Key Process Flows
 - Franchisee Account & Allocation
 - Franchisee registers, updates availability, views leads, creates services, and generates invoices.
 - System validates, records updates, and sends invoices to clients and accounting.
 - Lead Management
 - Leads are assigned, viewed, and converted into clients.
-- Services are scheduled; restrictions are applied by the Operations Manager.
+- Services are scheduled; the Operations Manager applies restrictions.
 - Banking & Accounting
 - Payments recorded, monthly invoices generated, and financial reports produced.
 - Training Updates
@@ -48,6 +49,7 @@ Key Process Flows
 
 3. Sequence & Domain Class Diagram
 <img width="782" height="714" alt="image" src="https://github.com/user-attachments/assets/65715739-5c4e-4cc6-866b-ac5e64fbdc04" />
+
 Sequence Diagram Summary – Key Flow
 Actors Involved:
 - Operations Manager – Controls lead allocation
@@ -67,6 +69,7 @@ Purpose:
 - Highlights both standard and optional paths
 - Ensures clarity in franchisee operations from registration to invoicing
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/267a185c-b283-435d-9e4f-433cbba20c06" />
+
 Purpose:
 Represents the static structure of the Horizon Health mobile app, showing how franchisee operations, lead management, service delivery, and invoicing are connected.
 Key Classes:
@@ -86,6 +89,7 @@ Outcome:
 Provides a clear, scalable model of how actors and processes interact. Supports automation, financial tracking, and ensures the app design is structured, traceable, and ready for implementation.
 5. Business Process Models
 <img width="685" height="838" alt="image" src="https://github.com/user-attachments/assets/f9c478e0-0641-49d8-a525-bc5f48bc95f5" />
+
 The system workflows are captured in three BPMs to ensure clear roles, automation, and accountability:
 - Lead Generation
 - Call Centre Admin enters lead details.
@@ -106,6 +110,7 @@ Outcome:
 These BPMs streamline lead handling, client servicing, and invoicing, ensuring efficiency, transparency, and financial accuracy across Horizon Health’s franchise network.
 6. BACCM Analysis
 <img width="730" height="487" alt="image" src="https://github.com/user-attachments/assets/a473ab81-64b5-491d-a222-6f20a441d396" />
+
 Figure 5: BACCM-based mind map for the problem space exploration
 Change
 - Shift from manual operations to a unified, AI‑enhanced mobile app.
