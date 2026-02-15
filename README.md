@@ -1,4 +1,5 @@
-# Horizon-Health-Franchise-Management-System
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/70bad7c0-4a7a-4798-b8f1-37fcfe5bb9e4" />
+
 # Project Overview
 This project presents the analysis and design of a mobile application to enhance Horizon Health’s franchise management. The solution leverages UML modeling, business process modeling, and AI-enhanced workflows to streamline operations across franchisees, administrators, and external systems.
 The application focuses on:
