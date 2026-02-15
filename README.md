@@ -69,10 +69,10 @@ Purpose:
 - Shows how actors interact with the system in real time
 - Highlights both standard and optional paths
 - Ensures clarity in franchisee operations from registration to invoicing
+
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/267a185c-b283-435d-9e4f-433cbba20c06" />
 
-Purpose:
-Represents the static structure of the Horizon Health mobile app, showing how franchisee operations, lead management, service delivery, and invoicing are connected.
+Purpose: Represents the static structure of the Horizon Health mobile app, showing how franchisee operations, lead management, service delivery, and invoicing are connected.
 Key Classes:
 • 	Franchisee – Registers, manages leads, converts clients, creates services, and invoices.
 • 	Call Centre Administrator – Assigns, views, and cancels leads.
@@ -88,6 +88,7 @@ Relationships:
 • 	External systems integrate for accounting and reporting.
 Outcome:
 Provides a clear, scalable model of how actors and processes interact. Supports automation, financial tracking, and ensures the app design is structured, traceable, and ready for implementation.
+
 ## 3. Business Process Models
 <img width="685" height="838" alt="image" src="https://github.com/user-attachments/assets/f9c478e0-0641-49d8-a525-bc5f48bc95f5" />
 
