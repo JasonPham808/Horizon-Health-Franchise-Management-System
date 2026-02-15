@@ -73,7 +73,7 @@ Purpose:
 <img width="735" height="704" alt="image" src="https://github.com/user-attachments/assets/267a185c-b283-435d-9e4f-433cbba20c06" />
 
 Purpose: Represents the static structure of the Horizon Health mobile app, showing how franchisee operations, lead management, service delivery, and invoicing are connected.
-- Key Classes:
+Key Classes:
 • 	Franchisee – Registers, manages leads, converts clients, creates services, and invoices.
 • 	Call Centre Administrator – Assigns, views, and cancels leads.
 • 	Client – Receives services; linked to multiple leads.
@@ -82,7 +82,8 @@ Purpose: Represents the static structure of the Horizon Health mobile app, showi
 • 	Invoice – Handles financial transactions and payment status.
 • 	Accounting System – External system for invoice processing.
 • 	Operations Manager – Restricts lead allocation based on rules.
-- Relationships:
+
+Relationships:
 • 	Leads connect franchisees and clients.
 • 	Each service links to one invoice; clients may have multiple leads/services.
 • 	External systems integrate for accounting and reporting.
